@@ -15,9 +15,7 @@ energies using precise atomic coordinates. Here wWe show that protein design usi
 energies (dTERMen) can generate highly novel and diverse peptides to target anti-apoptotic
 proteins Bfl-1 and Mcl-1. 15 of 17 peptides designed using dTERMen bound tightly to their
 intended targets, and these peptides have just 15 - 38% sequence identity to any known native
-Bcl-2 family protein ligand. High-resolution structures of four designed peptides bound to their
-
-3
+Bcl-2 family protein ligand. High-resolution structures of four designed peptides bound to their 3
 targets provided opportunities to analyze strengths and limitations of this new approach.
 Dramatic success on this peptide design task, which comprised going from input structure to
 experimental validation of high-affinity binders in approximately one month, provides strong
